@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">bluetoothTest</string>
+    <string name="bluetoothTurnon">Turn on</string>
+    <string name="bluetoothTurnoff">Turn off</string>
+    <string name="get_visible">GET VISIBLE</string>
+    <string name="list_devices">list devices</string>
+    <string name="close">close</string>
+</resources>
